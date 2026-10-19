@@ -1,0 +1,3 @@
+dependencies:
+  - cowsay==6.1
+  - fuzzywuzzy==0.18.0
