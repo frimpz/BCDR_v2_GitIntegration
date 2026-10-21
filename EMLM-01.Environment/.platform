@@ -2,7 +2,7 @@
   "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
   "metadata": {
     "type": "Environment",
-    "displayName": "Environment_1",
+    "displayName": "EMLM-01",
     "description": "Environment"
   },
   "config": {

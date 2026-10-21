@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Environment",
+    "displayName": "EMLM-03",
+    "description": "Environment"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "6a31f5c5-5c91-4a20-8bd0-d40ec631043b"
+  }
+}
